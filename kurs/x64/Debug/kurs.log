@@ -1,0 +1,10 @@
+﻿  kurs.cpp
+d:\visual\repos\kurs\kurs\kurs.cpp(166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\visual\repos\kurs\kurs\kurs.cpp(171): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\visual\repos\kurs\kurs\kurs.cpp(356): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+d:\visual\repos\kurs\kurs\kurs.cpp(413): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\visual\repos\kurs\kurs\kurs.cpp(416): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\visual\repos\kurs\kurs\kurs.cpp(418): warning C4101: b: неиспользованная локальная переменная
+d:\visual\repos\kurs\kurs\kurs.cpp(462): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\visual\repos\kurs\kurs\kurs.cpp(579): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  kurs.vcxproj -> D:\visual\repos\kurs\x64\Debug\kurs.exe
